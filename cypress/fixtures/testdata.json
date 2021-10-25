@@ -1,0 +1,13 @@
+{
+    "red": "3",
+    "orange": "17",
+    "white":  "0",
+    "zone2": "2",
+    "zone3": "3",
+    "USD" : "USD",
+    "EURO": "EUR",
+    "POUND" : "GBP",
+    "USDSIGN": "$",
+    "EUROSIGN": "€",
+    "POUNDSIGN": "£"
+  }

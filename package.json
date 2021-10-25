@@ -1,0 +1,21 @@
+{
+  "name": "CYPRESS TEST AUTOMATION BY POM",
+  "version": "1.0.0",
+  "description": "Automation by Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "cypress": "^8.6.0",
+    "cypress-file-upload":"^5.0.8",
+    "cypress-mochawesome-reporter" : "^2.3.0"
+
+  }
+}
