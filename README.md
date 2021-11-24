@@ -1,5 +1,5 @@
 # cypress-pom
-Automation test written by cypress, following POM
+Automation test written by cypress, following POM. Moreover , file upload , data driven testing implemented.
 
 # How to Run
 1. First , 'npm install'
