@@ -1,6 +1,6 @@
 {
     "watchForFileChanges": false,
-    "baseUrl" : "https://store.briklshop.com/en",
+    "baseUrl" : "",
     "defaultCommandTimeout" : 8000,
     "reporter": "cypress-mochawesome-reporter",
     "reporterOptions": {
